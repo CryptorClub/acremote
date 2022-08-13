@@ -1,5 +1,7 @@
 # IR Remote control Kentatsu KSGB35
 
+Demo here https://cryptorclub.github.io/acremote/
+
 
 ![KEntatsu](image.jpg)
 ![KEntatsu](image_pult.jpg)
