@@ -1,4 +1,4 @@
-# IR Remote contro; Kentatsu KSGB35
+# IR Remote control Kentatsu KSGB35
 
 
 ![KEntatsu](image.jpg)
