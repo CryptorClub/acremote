@@ -1,4 +1,4 @@
-# Управление кондиционером Kentatsu KSGB35
+# IR Remote contro; Kentatsu KSGB35
 
 
 ![KEntatsu](image.jpg)
@@ -6,7 +6,7 @@
 
 ## Прошивка Arduino NodeMCU v1 (esp8266)
 
-Пример
+Example
 ```
 #B27BE0 = [[REMOTE OFF AC]]
 10110010_011_11011_1110_00_00
